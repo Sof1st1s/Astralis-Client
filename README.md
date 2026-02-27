@@ -4,7 +4,7 @@ Some antiviruses may false flag (false positive) it. Learn more about what false
 
 TUTORIAL (Important):
 1. Click Tag, then click Release 
-2. Download AstralisClient.exe
+2. Download Astralis.exe
 (If your browser or antivirus blocks it, disable the antivirus temporarily and download the file. Read why the antivirus does this above)
 3. Open the game
 4. Double click the .exe and wait for a few seconds before it injects. A notification will show up in the game when it does.
