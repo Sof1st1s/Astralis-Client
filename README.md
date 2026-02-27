@@ -1,6 +1,6 @@
 WARNING:
 Some antiviruses may false flag (false positive) it. Learn more about what false positive means here: https://www.huntress.com/cybersecurity-101/topic/false-positive-viruses
-(Antivirus false flag refers to a false positive, where security software incorrectly identifies a legitimate file or program as malicious. This can disrupt workflows, block essential applications, or cause unnecessary panic, even though no real threat exists)
+(False flag refers to a false positive, where antivirus incorrectly identifies a legitimate file or program as malicious. This can disrupt workflows, block essential applications, or cause unnecessary panic, even though no real threat exists, here it happens because the cheat alters game files.)
 
 TUTORIAL (Important):
 1. Click Tag, then click Release 
