@@ -1,4 +1,4 @@
-Astral is a cheating client designed to deliver the best performance and lightweight modules while not being detected.
+Astralis is a cheating client designed to deliver the best performance and lightweight modules while not being detected.
 
 WARNING:
 Some antiviruses may false flag (false positive) it. Learn more about what false positive means here: https://www.huntress.com/cybersecurity-101/topic/false-positive-viruses
