@@ -1,4 +1,4 @@
-(If you're asking why is it a .exe file, it is because it is for the microsoft app which lots of people use. Generally it has smoother performance)
+!!!YOU NEED TO INSTALL DESKTOP RUNTIME FOR IT TO WORK!!!
 WARNING:
 Some antiviruses may false flag (false positive) it. Learn more about what false positive means here: https://www.huntress.com/cybersecurity-101/topic/false-positive-viruses
 (False flag refers to a false positive, where antivirus incorrectly identifies a program as malicious. This can disrupt workflows, block essential applications, or cause unnecessary panic, even though no real threat exists, here it happens because the cheat alters game files)
